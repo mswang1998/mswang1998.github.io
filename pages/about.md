@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
+description: AI改变世界
 keywords: Mushu Wang
 comments: true
 menu: 关于
