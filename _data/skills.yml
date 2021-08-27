@@ -5,13 +5,8 @@
 
 - name: Mobile Developer Keywords
   keywords:
-      - Android
-      - Reverse Engineering
+      - No
 
 - name: Windows Developer Keywords
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - No

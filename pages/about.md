@@ -8,7 +8,7 @@ menu: 关于
 permalink: /about/
 ---
 
-。
+少睡小侠。
 
 ## 联系
 
