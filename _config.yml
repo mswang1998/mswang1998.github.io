@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     少睡多学
+weibo_username:     多睡等于少学
 #zhihu_username:     huxpro
 github_username:    mswang1998
 #twitter_username:   huxpro
