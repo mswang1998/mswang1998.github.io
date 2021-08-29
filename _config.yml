@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-qus_username: hux
+#qus_username: hux
 
 # Gitalk
 gitalk:
