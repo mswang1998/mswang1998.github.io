@@ -1,1 +1,1 @@
-Hi, I am Mushu Wang.
+Welcome to Lessleep's blog.
