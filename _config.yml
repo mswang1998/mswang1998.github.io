@@ -1,5 +1,5 @@
 # Site settings
-title: Less Sleep
+title: Lessleep
 SEOTitle:  Lessleep
 header-img: img/home-bg.jpg
 email: mswang20@fudan.edu.cn
@@ -88,7 +88,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: Lessleep <br> Less sleep."
+sidebar-about-description: Lessleep <br> Less sleep.
 sidebar-avatar: /img/wms.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
