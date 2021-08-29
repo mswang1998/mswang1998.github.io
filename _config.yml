@@ -4,7 +4,7 @@ SEOTitle:  Lessleep
 header-img: img/home-bg.jpg
 email: mswang20@fudan.edu.cn
 description: "Less Sleep"
-keyword: "王沐书, mswang, 王沐书的博客, 少睡, 博客, Less Sleep, 个人网站"
+keyword: "王沐书, mswang, 王沐书的博客, 少睡,  Lesslpeep, 博客, Less Sleep, 个人网站"
 url: "https://mswang1998.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     多睡等于少学
+#weibo_username:     多睡等于少学
 #zhihu_username:     huxpro
 github_username:    mswang1998
 #twitter_username:   huxpro
@@ -81,14 +81,14 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "王沐书 <br> less sleep."
+sidebar-about-description: "Mushu Wang <br> Less sleep."
 sidebar-avatar: /img/wms.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
